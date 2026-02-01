@@ -1,0 +1,47 @@
+index.html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>eBook Store</title>
+  <meta charset="UTF-8">
+  <style>
+    body{
+      font-family: Arial, sans-serif;
+      background:#f4f4f4;
+      margin:0;
+      padding:0;
+    }
+    .box{
+      max-width:400px;
+      margin:60px auto;
+      background:#fff;
+      padding:25px;
+      text-align:center;
+      border-radius:10px;
+    }
+    .btn{
+      display:inline-block;
+      margin-top:15px;
+      background:#28a745;
+      color:#fff;
+      padding:12px 20px;
+      text-decoration:none;
+      border-radius:6px;
+      font-size:18px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="box">
+    <h1>📘 Online Earning eBook</h1>
+    <p>Learn step-by-step how to earn money online.</p>
+    <h3>Price: ₹199</h3>
+
+    <a class="btn" href="https://gumroad.com" target="_blank">
+      Buy Now
+    </a>
+  </div>
+
+</body>
+</html>
